@@ -1,0 +1,4 @@
+See file:///D:/AndroidStudioProjects/LiveCamera/app/build/tmp/compileArmeabi-v7aDebugArm7LivecameraSharedLibraryLivecameraMainC/output.txt for all output for compileArmeabi-v7aDebugArm7LivecameraSharedLibraryLivecameraMainC.
+compiling CameraDecoder.c successful.
+
+Finished compileArmeabi-v7aDebugArm7LivecameraSharedLibraryLivecameraMainC, see full log file:///D:/AndroidStudioProjects/LiveCamera/app/build/tmp/compileArmeabi-v7aDebugArm7LivecameraSharedLibraryLivecameraMainC/output.txt.

@@ -1,0 +1,4 @@
+See file:///D:/AndroidStudioProjects/LiveCamera/app/build/tmp/linkArmeabi-v7aDebugArm7LivecameraSharedLibrary/output.txt for all output for linkArmeabi-v7aDebugArm7LivecameraSharedLibrary.
+linking liblivecamera.so successful.
+
+Finished linkArmeabi-v7aDebugArm7LivecameraSharedLibrary, see full log file:///D:/AndroidStudioProjects/LiveCamera/app/build/tmp/linkArmeabi-v7aDebugArm7LivecameraSharedLibrary/output.txt.
